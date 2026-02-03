@@ -1,18 +1,46 @@
-# Specification Phase Exercise
-
-A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+B, Luc lucasbazoberry
+C, Sas sashacartagena
+M, Roh rohanmalhotra0
+Y, Ste seonghoyu11
+
+
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+1. **Understand what “sound like a native” means in real situations**
+   - Students want to match the situation and know if it is formal or informal street talk, friends, clubs, dinner at a friend’s house, group chats.
+
+2. **Build confidence using informal German in low-stress contexts**
+   - Students feel most confident when talking to people their same age or in relaxed settings.
+
+3. **Learn informal German or other languages that feels real but stays classroom-safe**
+   - Real speech can be fast and drop endings, but teaching that directly can lead to bad grammar. Students need natural phrases without reinforcing incorrect German or other languages.
+
+4. **Get level-appropriate informal language (A1–C1)**
+   - Some slang and idioms require more complex grammar and are not appropriate for beginners. Content should scale by level.
+
+### Problems / Frustrations (Top 4)
+1. **Not knowing when informal language is appropriate**
+   - Big confusion around du vs Sie in german for example, formality expectations, and cultural rules (ex: being formal with professors, emails being more formal).
+
+2. **Textbooks do not teach real casual / youth language**
+   - Textbooks often miss how teenagers actually talk and may focus on technical vocabulary that students rarely use.
+
+3. **Slang sources are unreliable**
+   - TikTok or social media is common but less reliable; TV is better. Classrooms can be a bad place to learn slang because instructors may be older or non native.
+
+4. **Regional slang and dialect differences**
+   - Students get confused by regional variation but dialect and pronunciation differences can be an even bigger challenge outside major cities.
+
+
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Build a mobile app that helps language learners sound more natural by learning classroom-safe slang and everyday informal German, with clear context about tone and situation. When to use it, where it’s used, and when not to use it , plus practice that builds confidence for real conversations.
+
 
 ## User Requirements
 
