@@ -5,7 +5,7 @@ Lucas Bazoberry (B, Luc) Github: lucasbazoberry
 Sasha Cartagena (C, Sas) Github: sashacartagena
 Rohan Malhotra (M, Roh) Github: rohanmalhotra0
 Seongho (Steve) Yoo (Y, Ste) Github: seonghoyu11
-Jaiden Xu (X, Jai) Github: jbx202
+Jaiden X (X, Jai) Github:
 
 
 
