@@ -5,7 +5,7 @@ Lucas Bazoberry (B, Luc) Github: lucasbazoberry
 Sasha Cartagena (C, Sas) Github: sashacartagena
 Rohan Malhotra (M, Roh) Github: rohanmalhotra0
 Seongho (Steve) Yoo (Y, Ste) Github: seonghoyu11
-Jaiden X (X, Jai) Github:
+Jaiden Xu (X, Jai) Github: jbx202
 
 
 
@@ -40,7 +40,7 @@ Jaiden X (X, Jai) Github:
 
 ## Product Vision Statement
 
-Build a mobile app that helps language learners sound more natural by learning classroom-safe slang and everyday informal German, with clear context about tone and situation. When to use it, where it’s used, and when not to use it, plus practice that builds confidence for real conversations.
+Build a mobile app that helps language learners sound more natural by learning classroom-safe slang and everyday informal German, with clear context about tone and situation, when to use it, where it’s used, and when not to use it, plus practice that builds confidence for real conversations.
 
 
 ## User Requirements
