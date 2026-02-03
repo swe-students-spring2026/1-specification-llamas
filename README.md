@@ -30,7 +30,7 @@ Y, Ste seonghoyu11
    - Textbooks often miss how teenagers actually talk and may focus on technical vocabulary that students rarely use.
 
 3. **Slang sources are unreliable**
-   - TikTok or social media is common but less reliable; TV is better. Classrooms can be a bad place to learn slang because instructors may be older or non native.
+   - TikTok or social media is common but less reliable, TV is better. Classrooms can be a bad place to learn slang because instructors may be older or non native.
 
 4. **Regional slang and dialect differences**
    - Students get confused by regional variation but dialect and pronunciation differences can be an even bigger challenge outside major cities.
@@ -39,7 +39,7 @@ Y, Ste seonghoyu11
 
 ## Product Vision Statement
 
-Build a mobile app that helps language learners sound more natural by learning classroom-safe slang and everyday informal German, with clear context about tone and situation. When to use it, where it’s used, and when not to use it , plus practice that builds confidence for real conversations.
+Build a mobile app that helps language learners sound more natural by learning classroom-safe slang and everyday informal German, with clear context about tone and situation. When to use it, where it’s used, and when not to use it, plus practice that builds confidence for real conversations.
 
 
 ## User Requirements
