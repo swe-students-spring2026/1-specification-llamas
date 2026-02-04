@@ -44,6 +44,7 @@ Build a mobile app that helps language learners sound more natural by learning c
 
 
 ## User Requirements
+As a foreign language learner, I want to sign up so that I can start learing more casual language.
 
 As a foreign language learner, I want slang grouped by category (social, greetings, etc.), so I know the setting in which it is appropriate to use certain words.
 
