@@ -50,6 +50,11 @@ As a foreign language learner, I want slang grouped by category (social, greetin
 
 As a foreign language learner, I want to vote on my native language slang so other learners do not learn out of date language.
 
+As a foreign language learner, I want to view the slang I have mastered on my profile, to track my progress.
+
+As a foreign language learner, I want to change the language in my profile, to start learning a new language.
+
+
 
 ## Activity Diagrams
 
