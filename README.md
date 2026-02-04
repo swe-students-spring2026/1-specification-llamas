@@ -45,7 +45,13 @@ Build a mobile app that helps language learners sound more natural by learning c
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As a student learning German, I want to know common slang so I get a better understanding of how people actually speak in Germany. 
+
+As a study abroad student in France, I want to learn how young people talk to fit in making friends abroad.
+
+As a tourist visiting Spain, I want to be able to recognize slang I hear so I can understand casual conversations I hear.
+
+As a non native English speaker in America, I want to learn commonly used idioms so that I don't feel lost when people use expressions that don't translate literally. 
 
 ## Activity Diagrams
 
