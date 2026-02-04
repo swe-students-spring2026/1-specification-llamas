@@ -45,17 +45,9 @@ Build a mobile app that helps language learners sound more natural by learning c
 
 ## User Requirements
 
-As a student learning German, I want to know common slang so I get a better understanding of how people actually speak in Germany. 
+As a foreign language learner, I want slang grouped by category (social, greetings.etc), so I know the setting in which it is appropriate to use certain words.
 
-As a study abroad student in France, I want to learn how young people talk to make friends abroad.
-
-As a tourist visiting Spain, I want to be able to recognize slang so I can understand casual conversations I hear.
-
-As a non native English speaker in America, I want to learn commonly used idioms so that I don't feel lost when people use expressions that don't translate literally. 
-
-As a beginner English learner, I want slang grouped by category (social, greetings.etc), so I know when it is appropriate to use certain words.
-
-As a native Korean speaker, I want to vote on Korean slang so those learn do not learn out of date language.
+As a foreign language learner, I want to vote on my native language slang so those learn do not learn out of date language.
 
 
 
