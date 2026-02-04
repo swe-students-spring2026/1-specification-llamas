@@ -53,7 +53,7 @@ As a tourist visiting Spain, I want to be able to recognize slang so I can under
 
 As a non native English speaker in America, I want to learn commonly used idioms so that I don't feel lost when people use expressions that don't translate literally. 
 
-As a beginner English learner, I want slang grouped by category (social, greetings.etc), so I know when it is approraite to use certain words.
+As a beginner English learner, I want slang grouped by category (social, greetings.etc), so I know when it is appropriate to use certain words.
 
 As a native Korean speaker, I want to vote on Korean slang so those learn do not learn out of date language.
 
