@@ -46,7 +46,15 @@ Build a mobile app that helps language learners sound more natural by learning c
 ## User Requirements
 As a foreign language learner, I want to sign up so that I can start learing more casual language.
 
+As a foreign language learner, I want to select the language I am learning so that the slang shown is relevant to me.
+
 As a foreign language learner, I want slang grouped by category (social, greetings, etc.), so I know the setting in which it is appropriate to use certain words.
+
+As a foreign language learner, I want to click through multiple flashcards so I can learn multiple words in one session.
+
+As a foreign language learner, I want to see the word or phrase used in a sentence so I know the context in which it is used.
+
+As a foreign language learner, I want to see what region slang comes from (such as American or British English) so that I know where it is most commonly used.
 
 As a foreign language learner, I want to vote on my native language slang so other learners do not learn out of date language.
 
