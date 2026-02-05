@@ -54,6 +54,7 @@ As a foreign language learner, I want to view the slang I have mastered on my pr
 
 As a foreign language learner, I want to change the language in my profile, to start learning a new language.
 
+As a foreign language learner, I want to post my own slang to contribute to the pool of slang for my native language. 
 
 
 ## Activity Diagrams
