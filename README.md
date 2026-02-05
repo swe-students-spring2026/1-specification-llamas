@@ -58,9 +58,9 @@ As a foreign language learner, I want to see what region slang comes from (such 
 
 As a foreign language learner, I want to vote on my native language slang so other learners do not learn out of date language.
 
-As a foreign language learner, I want to view the slang I have mastered on my profile, to track my progress.
+As a foreign language learner, I want to view the slang I have mastered on my profile to track my progress.
 
-As a foreign language learner, I want to change the language in my profile, to start learning a new language.
+As a foreign language learner, I want to change the language in my profile to start learning a new language.
 
 As a foreign language learner, I want to post my own slang to contribute to the pool of slang for my native language. 
 
