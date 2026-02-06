@@ -68,6 +68,7 @@ As a foreign language learner, I want to post my own slang to contribute to the 
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML Class Diagram](uml_class_diagram.png)
 
 ## Clickable Prototype
 
