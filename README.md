@@ -1,11 +1,11 @@
 
 ## Team members
 
-Lucas Bazoberry (B, Luc) Github: lucasbazoberry
-Sasha Cartagena (C, Sas) Github: sashacartagena
-Rohan Malhotra (M, Roh) Github: rohanmalhotra0
-Steve Yoo (Y, Ste) Github: seonghoyu11
-Jaiden Xu (X, Jai) Github: jbx202 
+- Lucas Bazoberry (B, Luc) Github: [lucasbazoberry](https://github.com/lucasbazoberry)
+- Sasha Cartagena (C, Sas) Github: [sashacartagena](https://github.com/sashacartagena)
+- Rohan Malhotra (M, Roh) Github: [rohanmalhotra0](https://github.com/rohanmalhotra0)
+- Steve Yoo (Y, Ste) Github: [seonghoyu11](https://github.com/seonghoyu11)
+- Jaiden Xu (X, Jai) Github: [jbx202](https://github.com/jbx202)
 
 
 
