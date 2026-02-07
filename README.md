@@ -50,7 +50,7 @@ As a foreign language learner, I want to select the language I am learning so th
 
 As a foreign language learner, I want slang grouped by category (social, greetings, etc.), so I know the setting in which it is appropriate to use certain words.
 
-As a foreign language learner, I want to click through multiple flashcards so I can learn multiple words in one session.
+As a foreign language learner, I want to search specific words and phrases so I can learn specific words I have heard.
 
 As a foreign language learner, I want to see the word or phrase used in a sentence so I know the context in which it is used.
 
