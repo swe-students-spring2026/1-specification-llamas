@@ -44,31 +44,35 @@ Build a mobile app that helps language learners sound more natural by learning c
 
 
 ## User Requirements
-As a foreign language learner, I want to sign up so that I can start learing more casual language.
+1. As a foreign language learner, I want to sign up so that I can start learing more casual language.
 
-As a foreign language learner, I want to select the language I am learning so that the slang shown is relevant to me.
+2. As a foreign language learner, I want to select the language I am learning so that the slang shown is relevant to me.
 
-As a foreign language learner, I want slang grouped by category (social, greetings, etc.), so I know the setting in which it is appropriate to use certain words.
+3. As a foreign language learner, I want slang grouped by category (social, greetings, etc.), so I know the setting in which it is appropriate to use certain words.
 
-As a foreign language learner, I want to search specific words and phrases so I can learn specific words I have heard.
+4. As a foreign language learner, I want to search specific words and phrases so I can learn specific words I have heard.
 
-As a foreign language learner, I want to see the word or phrase used in a sentence so I know the context in which it is used.
+5. As a foreign language learner, I want to see the word or phrase used in a sentence so I know the context in which it is used.
 
-As a foreign language learner, I want to see what region slang comes from (such as American or British English) so that I know where it is most commonly used.
+6. As a foreign language learner, I want to see what region slang comes from (such as American or British English) so that I know where it is most commonly used.
 
-As a foreign language learner, I want to vote on my native language slang so other learners do not learn out of date language.
+7. As a foreign language learner, I want to vote on my native language slang so other learners do not learn out of date language.
 
-As a foreign language learner, I want to view the slang I have mastered on my profile to track my progress.
+8. As a foreign language learner, I want to view the slang I have mastered on my profile to track my progress.
 
-As a foreign language learner, I want to change the language in my profile to start learning a new language.
+9. As a foreign language learner, I want to change the language in my profile to start learning a new language.
 
-As a foreign language learner, I want to post my own slang to contribute to the pool of slang for my native language. 
+10. As a foreign language learner, I want to post my own slang to contribute to the pool of slang for my native language. 
 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
-![UML Class Diagram](uml_class_diagram.png)
+![UML Diagram User Story 6](uml_6.png)
+- UML Activity Diagram for User Story 6
+![UML Diagram User Story 7](uml_7.png)
+- UML Activity Diagram for User Story 7
+![UML Diagram User Story 8](uml_8.png)
+- UML Activity Diagram for User Story 8
 
 ## Clickable Prototype
 
