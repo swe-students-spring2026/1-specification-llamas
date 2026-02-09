@@ -11,6 +11,7 @@
 
 ## Stakeholders
 Stakeholder #1: Owen Hart (German Professor at NYU)
+
 Stakeholder #2: Ciena Kim (NYU Student from South Korea)
 
 ### Goals/Needs
@@ -44,7 +45,7 @@ Stakeholder #2: Ciena Kim (NYU Student from South Korea)
    - Students get confused by regional variation but dialect and pronunciation differences can be an even bigger challenge outside major cities.
 
 5. **Language is Not Always Literal**
-   -Language learners struggle when native speakers use non-literal idioms ("up my alley" or "catch my drift"). It is frustrating to know every individual word in a sentence but still have no idea what the person is actually saying.
+   - Language learners struggle when native speakers use non-literal idioms ("up my alley" or "catch my drift"). It is frustrating to know every individual word in a sentence but still have no idea what the person is actually saying.
 
 
 
