@@ -10,11 +10,11 @@
 
 
 ## Stakeholders
-Stakeholder #1: Owen Hart (German Professor at NYU)
+Stakeholder #1: Owen Hart (German Professor at NYU): From a professor's point of view, Hart helps us understand what most students struggle with, and what they tend to find most interesting when learning a language.
 
-Stakeholder #2: Ciena Kim (NYU Student from South Korea)
+Stakeholder #2: Ciena Kim (NYU Student from South Korea): As a language learner, Ciena helps us understand her struggles as a non Native English speaker, and what she would like to see in an app such as ours.  
 
-### Goals/Needs
+### Goals/Needs (Top 5)
 1. **Understand what “sound like a native” means in real situations**
    - Students want to match the situation and know if it is formal or informal street talk, friends, clubs, dinner at a friend’s house, group chats.
 
@@ -31,7 +31,7 @@ Stakeholder #2: Ciena Kim (NYU Student from South Korea)
    - Words and phrases have varying connotations. Users want to know what words or phrases sound more aggressive, happy, etc.
 
 
-### Problems / Frustrations (Top 4)
+### Problems / Frustrations (Top 5)
 1. **Not knowing when informal language is appropriate**
    - Big confusion around du vs Sie in german for example, formality expectations, and cultural rules (ex: being formal with professors, emails being more formal).
 
@@ -42,7 +42,7 @@ Stakeholder #2: Ciena Kim (NYU Student from South Korea)
    - TikTok or social media is common but less reliable, TV is better. Classrooms can be a bad place to learn slang because instructors may be older or non native. Users find sources like Urban Dictionary to be disorganized or "sketchy," making it hard to know if a slang word is actually used in real life or if it's outdated.
 
 4. **Regional Slang and Dialect Differences**
-   - Students get confused by regional variation but dialect and pronunciation differences can be an even bigger challenge outside major cities.
+   - Students get confused by regional variation but dialect and pronunciation differences can be an even bigger challenge outside major cities. It is common to know "Hello" or "Hi", but hearing "Howdy" could be a challenge.
 
 5. **Language is Not Always Literal**
    - Language learners struggle when native speakers use non-literal idioms ("up my alley" or "catch my drift"). It is frustrating to know every individual word in a sentence but still have no idea what the person is actually saying.
