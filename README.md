@@ -51,7 +51,7 @@ Stakeholder #2: Ciena Kim (NYU Student from South Korea): As a language learner,
 
 ## Product Vision Statement
 
-Build a mobile app that helps language learners sound more natural by learning classroom-safe slang and everyday informal language, with clear context about tone and situation, when to use it, where it’s used, and when not to use it, plus practice that builds confidence for real conversations.
+This mobile app helps language learners sound more natural by learning classroom-safe slang and everyday informal language, with clear context about tone and situation, when to use it, where it’s used, when not to use it, and practice that builds confidence for real conversations.
 
 
 ## User Requirements
