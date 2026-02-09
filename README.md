@@ -77,6 +77,12 @@ Build a mobile app that helps language learners sound more natural by learning c
 - UML Activity Diagram for User Story 8
 ![UML Diagram User Story 8](assets/uml_8.png)
 
+- UML Activity Diagram for User Story 9
+![UML Diagram User Story 8](assets/uml_9.png)
+
+- UML Activity Diagram for User Story 10
+![UML Diagram User Story 8](assets/uml_10.png)
+
 
 ## Clickable Prototype
 
