@@ -10,32 +10,41 @@
 
 
 ## Stakeholders
-Stakeholder: Owen Hart (German Professor at NYU)
+Stakeholder #1: Owen Hart (German Professor at NYU)
+Stakeholder #2: Ciena Kim (NYU Student from South Korea)
 
+### Goals/Needs
 1. **Understand what “sound like a native” means in real situations**
    - Students want to match the situation and know if it is formal or informal street talk, friends, clubs, dinner at a friend’s house, group chats.
 
-2. **Build confidence using informal German in low-stress contexts**
+2. **Build confidence using informal language in low-stress contexts**
    - Students feel most confident when talking to people their same age or in relaxed settings.
 
-3. **Learn informal German or other languages that feels real but stays classroom-safe**
-   - Real speech can be fast and drop endings, but teaching that directly can lead to bad grammar. Students need natural phrases without reinforcing incorrect German or other languages.
+3. **Learn informal languages that feels real but stays classroom-safe**
+   - Real speech can be fast and drop endings, but teaching that directly can lead to bad grammar. Students need natural phrases without reinforcing incorrect languages.
 
 4. **Get level-appropriate informal language (A1–C1)**
    - Some slang and idioms require more complex grammar and are not appropriate for beginners. Content should scale by level.
+
+5. **Know the context in which to use certain language**
+   - Words and phrases have varying connotations. Users want to know what words or phrases sound more aggressive, happy, etc.
+
 
 ### Problems / Frustrations (Top 4)
 1. **Not knowing when informal language is appropriate**
    - Big confusion around du vs Sie in german for example, formality expectations, and cultural rules (ex: being formal with professors, emails being more formal).
 
-2. **Textbooks do not teach real casual / youth language**
-   - Textbooks often miss how teenagers actually talk and may focus on technical vocabulary that students rarely use.
+2. **Textbooks Do Not Teach Real Casual / Youth Language**
+   - Textbooks often miss how teenagers actually talk and may focus on technical vocabulary that students rarely use. Traditional language apps and books completely ignore everyday casual and "youth" language
 
-3. **Slang sources are unreliable**
-   - TikTok or social media is common but less reliable, TV is better. Classrooms can be a bad place to learn slang because instructors may be older or non native.
+3. **Slang Sources are Unreliable**
+   - TikTok or social media is common but less reliable, TV is better. Classrooms can be a bad place to learn slang because instructors may be older or non native. Users find sources like Urban Dictionary to be disorganized or "sketchy," making it hard to know if a slang word is actually used in real life or if it's outdated.
 
-4. **Regional slang and dialect differences**
+4. **Regional Slang and Dialect Differences**
    - Students get confused by regional variation but dialect and pronunciation differences can be an even bigger challenge outside major cities.
+
+5. **Language is Not Always Literal**
+   -Language learners struggle when native speakers use non-literal idioms ("up my alley" or "catch my drift"). It is frustrating to know every individual word in a sentence but still have no idea what the person is actually saying.
 
 
 
