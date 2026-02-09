@@ -10,6 +10,7 @@
 
 
 ## Stakeholders
+Stakeholder: Owen Hart (German Professor at NYU)
 
 1. **Understand what “sound like a native” means in real situations**
    - Students want to match the situation and know if it is formal or informal street talk, friends, clubs, dinner at a friend’s house, group chats.
