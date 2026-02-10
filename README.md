@@ -93,4 +93,4 @@ This mobile app helps language learners sound more natural by learning classroom
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Clickable Prototype Here](https://www.figma.com/proto/APXmGFCj8hMO96Wp5kKKfw/SWE_P1_llamas?node-id=2-12&p=f&t=XVH0lbYOIPLIOZGt-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A12)
