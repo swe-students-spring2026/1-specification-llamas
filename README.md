@@ -78,9 +78,6 @@ This mobile app helps language learners sound more natural by learning classroom
 
 ## Activity Diagrams
 
-- UML Activity Diagram for User Story 6
-![UML Diagram User Story 6](assets/uml_6.png)
-
 - UML Activity Diagram for User Story 7
 ![UML Diagram User Story 7](assets/uml7.png)
 
